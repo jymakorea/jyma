@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    padding: 0;     
+    padding: 0;
 }
 a{
     text-decoration: none;
@@ -12,7 +12,7 @@ a{
     padding-right: 200px;
     border-bottom: 1px solid black;
 }
-.menu-bar img{   
+.menu-bar img{
     width: 150px;
     padding-left: 50px;
     padding-right: 50px;
@@ -21,7 +21,7 @@ a{
     margin:10px;
     display: inline-block;
     font-size:50px;
-    margin-left: 100px; 
+    margin-left: 100px;
 }
 .menu-bar a:hover{
     background-color: rgb(16, 212, 16);
@@ -46,6 +46,13 @@ a{
     text-align: center;
     border-bottom: 1px solid black;
     padding-bottom: 50px;
+}
+.picture1{
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding-bottom: 50px;
+    font-size: 17px;
+    font-weight: 500;
 }
 .picture span img{
     width: 50%;
